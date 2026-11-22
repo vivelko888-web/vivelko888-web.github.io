@@ -1,0 +1,6 @@
+Illustrations: Twemoji v16.0.1, Twitter and contributors / jdecked.
+https://github.com/jdecked/twemoji/tree/v16.0.1
+CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+SVG graphics rasterised to transparent 512px PNG; original proportions preserved.
+Custom diagrams created for Moy Mir: pumpkin, pliers, drill, shovel, skirt, sweater, plate, cup, mug, glass, fork, pot, pan, jug, table, lamp, wardrobe.
+Audio: Silero V5 CIS Base / ru_ekaterina, MIT (see /assets/ekaterina/LICENSE_CIS.txt and license-note.txt). Old WAV files remain archived alongside the new library. No visitor data or requests are sent to a speech service at playback.

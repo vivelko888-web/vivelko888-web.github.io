@@ -1,0 +1,46 @@
+[
+  {
+    "file": "Kalaider25-a.wav",
+    "title": "Буква_А.wav",
+    "source": "https://commons.wikimedia.org/wiki/File:Буква_А.wav",
+    "author": "Kalaider25",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "None. Original audio bytes copied without processing.",
+    "sha256": "25b5e4d753cfea5b4d17d92a28f04ade286947841ecc5010ef76034cdd12d848",
+    "duration_seconds": 1.123265306122449
+  },
+  {
+    "file": "Kalaider25-b.wav",
+    "title": "Буква_Б.wav",
+    "source": "https://commons.wikimedia.org/wiki/File:Буква_Б.wav",
+    "author": "Kalaider25",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "None. Original audio bytes copied without processing.",
+    "sha256": "c33f655ce9cab65f476a1d146740f979de58f0c1ff49bb7104abc23a2aa4ff69",
+    "duration_seconds": 1.0710204081632653
+  },
+  {
+    "file": "Cherus-a.ogg",
+    "title": "Ru-01-буква-А.ogg",
+    "source": "https://commons.wikimedia.org/wiki/File:Ru-01-буква-А.ogg",
+    "author": "Cherus",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "None. Original audio bytes copied without processing.",
+    "sha256": "c7900300acb35c8fb4a8308f2d0d843447958501116dea8545332e9985f280d0",
+    "duration_seconds": 1.933061224489796
+  },
+  {
+    "file": "Cherus-b.ogg",
+    "title": "Ru-02-буква-Б.ogg",
+    "source": "https://commons.wikimedia.org/wiki/File:Ru-02-буква-Б.ogg",
+    "author": "Cherus",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "None. Original audio bytes copied without processing.",
+    "sha256": "ce119216eb43ecdde95d50fe6ad22c2ee1115c61aac3671a7eebdf7c6507b113",
+    "duration_seconds": 1.4628571428571429
+  }
+]

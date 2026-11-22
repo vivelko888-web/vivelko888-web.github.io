@@ -1,0 +1,27 @@
+Буква_А.wav
+Author: Kalaider25
+Source: https://commons.wikimedia.org/wiki/File:Буква_А.wav
+License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+Changes: None. Original audio bytes copied without processing.
+SHA256: 25b5e4d753cfea5b4d17d92a28f04ade286947841ecc5010ef76034cdd12d848
+
+Буква_Б.wav
+Author: Kalaider25
+Source: https://commons.wikimedia.org/wiki/File:Буква_Б.wav
+License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+Changes: None. Original audio bytes copied without processing.
+SHA256: c33f655ce9cab65f476a1d146740f979de58f0c1ff49bb7104abc23a2aa4ff69
+
+Ru-01-буква-А.ogg
+Author: Cherus
+Source: https://commons.wikimedia.org/wiki/File:Ru-01-буква-А.ogg
+License: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)
+Changes: None. Original audio bytes copied without processing.
+SHA256: c7900300acb35c8fb4a8308f2d0d843447958501116dea8545332e9985f280d0
+
+Ru-02-буква-Б.ogg
+Author: Cherus
+Source: https://commons.wikimedia.org/wiki/File:Ru-02-буква-Б.ogg
+License: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)
+Changes: None. Original audio bytes copied without processing.
+SHA256: ce119216eb43ecdde95d50fe6ad22c2ee1115c61aac3671a7eebdf7c6507b113

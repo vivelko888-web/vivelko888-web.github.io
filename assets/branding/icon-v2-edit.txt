@@ -1,0 +1,8 @@
+Мой мир — icon v2, built-in ImageGen edit, 13.11.2026.
+Edit target: former PWA icon. User request: globe 1.5x, sprout stems 2x; follow-up: larger leaf blades.
+Prompt set:
+1. Preserve friendly smooth 3D blue Earth, green continents, two leaves, gold orbit and blue background. Enlarge globe diameter1.5x compared with previous PWA icon. Double visible stem length and thickness. Keep objects inside frame, remove visible inner square, no text.
+2. Make globe and orbit about14percent larger than first result; target globe63–64percent canvas width. Preserve thicker stems and leaves, all objects uncut.
+3. Enlarge both leaf blades about40percent in visible area; broader/full leaves readable at small icon sizes. Preserve globe, orbit, thick stems, style and background; exactly two leaves, no clipping/text/border.
+Generated master: icon-planet-v2.png. The tool renders approximate visual proportions rather than exact geometric measurement. Final leaves follow the owner's follow-up request.
+Web/PWA only in this change. Android launcher assets and published Google Play build are unchanged.

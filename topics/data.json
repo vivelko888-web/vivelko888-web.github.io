@@ -1,0 +1,646 @@
+{
+  "language": "ru-RU",
+  "voice": "Silero V5 CIS Base / ru_ekaterina",
+  "categories": [
+    {
+      "id": "transport",
+      "title": "Транспорт",
+      "icon": "🚗",
+      "color": "#DCEEFF",
+      "cards": [
+        {
+          "id": "car",
+          "word": "Машина",
+          "image": "/topics/images/car.png",
+          "audio": "/assets/ekaterina/6d25f1acdc510fd10f17.wav"
+        },
+        {
+          "id": "bus",
+          "word": "Автобус",
+          "image": "/topics/images/bus.png",
+          "audio": "/assets/ekaterina/b2ed61b0b84119e69402.wav"
+        },
+        {
+          "id": "truck",
+          "word": "Грузовик",
+          "image": "/topics/images/truck.png",
+          "audio": "/assets/ekaterina/1ee216b7e487eb7fd65e.wav"
+        },
+        {
+          "id": "fire-engine",
+          "word": "Пожарная машина",
+          "image": "/topics/images/fire-engine.png",
+          "audio": "/assets/ekaterina/71d361ba34d154c68cfb.wav"
+        },
+        {
+          "id": "ambulance",
+          "word": "Скорая помощь",
+          "image": "/topics/images/ambulance.png",
+          "audio": "/assets/ekaterina/f28d695b10eb3566e68b.wav"
+        },
+        {
+          "id": "police-car",
+          "word": "Полицейская машина",
+          "image": "/topics/images/police-car.png",
+          "audio": "/assets/ekaterina/754e18490c3c0ed86695.wav"
+        },
+        {
+          "id": "train",
+          "word": "Поезд",
+          "image": "/topics/images/train.png",
+          "audio": "/assets/ekaterina/2fd3918ae6d42fd7d885.wav"
+        },
+        {
+          "id": "tram",
+          "word": "Трамвай",
+          "image": "/topics/images/tram.png",
+          "audio": "/assets/ekaterina/99fc1d174e5b76be305f.wav"
+        },
+        {
+          "id": "plane",
+          "word": "Самолёт",
+          "image": "/topics/images/plane.png",
+          "audio": "/assets/ekaterina/c6f49426d167887b2d00.wav"
+        },
+        {
+          "id": "helicopter",
+          "word": "Вертолёт",
+          "image": "/topics/images/helicopter.png",
+          "audio": "/assets/ekaterina/385d0b34dd094e6046e8.wav"
+        },
+        {
+          "id": "ship",
+          "word": "Корабль",
+          "image": "/topics/images/ship.png",
+          "audio": "/assets/ekaterina/72fe881babd25d97be0c.wav"
+        },
+        {
+          "id": "bicycle",
+          "word": "Велосипед",
+          "image": "/topics/images/bicycle.png",
+          "audio": "/assets/ekaterina/35a97675488f6d12ae47.wav"
+        }
+      ]
+    },
+    {
+      "id": "vegetables",
+      "title": "Овощи",
+      "icon": "🥕",
+      "color": "#D9F4E6",
+      "cards": [
+        {
+          "id": "carrot",
+          "word": "Морковь",
+          "image": "/topics/images/carrot.png",
+          "audio": "/assets/ekaterina/9f8a2b428f20dc5d610e.wav"
+        },
+        {
+          "id": "potato",
+          "word": "Картофель",
+          "image": "/topics/images/potato.png",
+          "audio": "/assets/ekaterina/5480bc47a26edccba890.wav"
+        },
+        {
+          "id": "tomato",
+          "word": "Помидор",
+          "image": "/topics/images/tomato.png",
+          "audio": "/assets/ekaterina/0cecfe1a866b5d90a35d.wav"
+        },
+        {
+          "id": "cucumber",
+          "word": "Огурец",
+          "image": "/topics/images/cucumber.png",
+          "audio": "/assets/ekaterina/8419c378dac9fe6f9eab.wav"
+        },
+        {
+          "id": "pepper",
+          "word": "Перец",
+          "image": "/topics/images/pepper.png",
+          "audio": "/assets/ekaterina/ff3ec36044cb3eb0efbe.wav"
+        },
+        {
+          "id": "corn",
+          "word": "Кукуруза",
+          "image": "/topics/images/corn.png",
+          "audio": "/assets/ekaterina/6d7c446b6e8dec45239b.wav"
+        },
+        {
+          "id": "broccoli",
+          "word": "Брокколи",
+          "image": "/topics/images/broccoli.png",
+          "audio": "/assets/ekaterina/0894e6e2a5e3be4042ba.wav"
+        },
+        {
+          "id": "onion",
+          "word": "Лук",
+          "image": "/topics/images/onion.png",
+          "audio": "/assets/ekaterina/60fc4a1b1b96201c1726.wav"
+        },
+        {
+          "id": "garlic",
+          "word": "Чеснок",
+          "image": "/topics/images/garlic.png",
+          "audio": "/assets/ekaterina/50bf05f6d24cfe2dc2e0.wav"
+        },
+        {
+          "id": "aubergine",
+          "word": "Баклажан",
+          "image": "/topics/images/aubergine.png",
+          "audio": "/assets/ekaterina/9dfaafe7fedd62f81457.wav"
+        },
+        {
+          "id": "lettuce",
+          "word": "Салат",
+          "image": "/topics/images/lettuce.png",
+          "audio": "/assets/ekaterina/1bc1d117b84aebc598a0.wav"
+        },
+        {
+          "id": "pumpkin",
+          "word": "Тыква",
+          "image": "/topics/images/pumpkin.png",
+          "audio": "/assets/ekaterina/f6432a54198501c4a4e2.wav"
+        }
+      ]
+    },
+    {
+      "id": "fruit",
+      "title": "Фрукты и ягоды",
+      "icon": "🍎",
+      "color": "#FFE5D3",
+      "cards": [
+        {
+          "id": "apple",
+          "word": "Яблоко",
+          "image": "/topics/images/apple.png",
+          "audio": "/assets/ekaterina/8397c780c1f9d73d982e.wav"
+        },
+        {
+          "id": "pear",
+          "word": "Груша",
+          "image": "/topics/images/pear.png",
+          "audio": "/assets/ekaterina/2ab2806445ac6de7b340.wav"
+        },
+        {
+          "id": "banana",
+          "word": "Банан",
+          "image": "/topics/images/banana.png",
+          "audio": "/assets/ekaterina/6470c691d4b8c0fa2cf3.wav"
+        },
+        {
+          "id": "orange",
+          "word": "Апельсин",
+          "image": "/topics/images/orange.png",
+          "audio": "/assets/ekaterina/df540636989f90602396.wav"
+        },
+        {
+          "id": "lemon",
+          "word": "Лимон",
+          "image": "/topics/images/lemon.png",
+          "audio": "/assets/ekaterina/56df97a50ebd32207dee.wav"
+        },
+        {
+          "id": "watermelon",
+          "word": "Арбуз",
+          "image": "/topics/images/watermelon.png",
+          "audio": "/assets/ekaterina/a87ccdee2ad8aa9d2218.wav"
+        },
+        {
+          "id": "melon",
+          "word": "Дыня",
+          "image": "/topics/images/melon.png",
+          "audio": "/assets/ekaterina/e87fb2a5ddd951f9e24d.wav"
+        },
+        {
+          "id": "peach",
+          "word": "Персик",
+          "image": "/topics/images/peach.png",
+          "audio": "/assets/ekaterina/d892b86abdfd508711ef.wav"
+        },
+        {
+          "id": "cherries",
+          "word": "Вишня",
+          "image": "/topics/images/cherries.png",
+          "audio": "/assets/ekaterina/83e2a2459dbf6202acf7.wav"
+        },
+        {
+          "id": "grapes",
+          "word": "Виноград",
+          "image": "/topics/images/grapes.png",
+          "audio": "/assets/ekaterina/7f3c2836f9c5e3aff1c1.wav"
+        },
+        {
+          "id": "strawberry",
+          "word": "Клубника",
+          "image": "/topics/images/strawberry.png",
+          "audio": "/assets/ekaterina/c5f0645cd1d6591e272b.wav"
+        },
+        {
+          "id": "pineapple",
+          "word": "Ананас",
+          "image": "/topics/images/pineapple.png",
+          "audio": "/assets/ekaterina/b1d7ac4a934049c28196.wav"
+        }
+      ]
+    },
+    {
+      "id": "tools",
+      "title": "Инструменты",
+      "icon": "🔨",
+      "color": "#FFE9B5",
+      "cards": [
+        {
+          "id": "hammer",
+          "word": "Молоток",
+          "image": "/topics/images/hammer.png",
+          "audio": "/assets/ekaterina/5bbb0fb16c89dc6c27e3.wav"
+        },
+        {
+          "id": "wrench",
+          "word": "Гаечный ключ",
+          "image": "/topics/images/wrench.png",
+          "audio": "/assets/ekaterina/a28db8dcd40ba6203cc6.wav"
+        },
+        {
+          "id": "screwdriver",
+          "word": "Отвёртка",
+          "image": "/topics/images/screwdriver.png",
+          "audio": "/assets/ekaterina/0b69f6aaca13b99c9dc8.wav"
+        },
+        {
+          "id": "saw",
+          "word": "Пила",
+          "image": "/topics/images/saw.png",
+          "audio": "/assets/ekaterina/b89ccf61f7b1d8596a42.wav"
+        },
+        {
+          "id": "axe",
+          "word": "Топор",
+          "image": "/topics/images/axe.png",
+          "audio": "/assets/ekaterina/bbd20818ea6f184ec118.wav"
+        },
+        {
+          "id": "pliers",
+          "word": "Плоскогубцы",
+          "image": "/topics/images/pliers.png",
+          "audio": "/assets/ekaterina/a6c809a2f240697e9439.wav"
+        },
+        {
+          "id": "drill",
+          "word": "Дрель",
+          "image": "/topics/images/drill.png",
+          "audio": "/assets/ekaterina/da875da56336cc1615af.wav"
+        },
+        {
+          "id": "shovel",
+          "word": "Лопата",
+          "image": "/topics/images/shovel.png",
+          "audio": "/assets/ekaterina/43810011ee52e260f081.wav"
+        },
+        {
+          "id": "scissors",
+          "word": "Ножницы",
+          "image": "/topics/images/scissors.png",
+          "audio": "/assets/ekaterina/2675677c3393727f10ff.wav"
+        },
+        {
+          "id": "ruler",
+          "word": "Линейка",
+          "image": "/topics/images/ruler.png",
+          "audio": "/assets/ekaterina/4964026e78a92464e28d.wav"
+        },
+        {
+          "id": "paintbrush",
+          "word": "Кисть",
+          "image": "/topics/images/paintbrush.png",
+          "audio": "/assets/ekaterina/b9024778eec3c99c60ad.wav"
+        },
+        {
+          "id": "ladder",
+          "word": "Лестница",
+          "image": "/topics/images/ladder.png",
+          "audio": "/assets/ekaterina/59f1157df05904c4fdc6.wav"
+        }
+      ]
+    },
+    {
+      "id": "clothes",
+      "title": "Одежда",
+      "icon": "👕",
+      "color": "#ECE1FA",
+      "cards": [
+        {
+          "id": "tshirt",
+          "word": "Футболка",
+          "image": "/topics/images/tshirt.png",
+          "audio": "/assets/ekaterina/7dd21601bd02006b86bf.wav"
+        },
+        {
+          "id": "jeans",
+          "word": "Джинсы",
+          "image": "/topics/images/jeans.png",
+          "audio": "/assets/ekaterina/2f53e23cbf7cf38f3229.wav"
+        },
+        {
+          "id": "dress",
+          "word": "Платье",
+          "image": "/topics/images/dress.png",
+          "audio": "/assets/ekaterina/0f1baaa1f41a353d0d2e.wav"
+        },
+        {
+          "id": "coat",
+          "word": "Куртка",
+          "image": "/topics/images/coat.png",
+          "audio": "/assets/ekaterina/ec43e1ac79d440b479e0.wav"
+        },
+        {
+          "id": "socks",
+          "word": "Носки",
+          "image": "/topics/images/socks.png",
+          "audio": "/assets/ekaterina/35d29ed00b1ad501003d.wav"
+        },
+        {
+          "id": "gloves",
+          "word": "Перчатки",
+          "image": "/topics/images/gloves.png",
+          "audio": "/assets/ekaterina/c8685ae3b7c8f22ac6cb.wav"
+        },
+        {
+          "id": "scarf",
+          "word": "Шарф",
+          "image": "/topics/images/scarf.png",
+          "audio": "/assets/ekaterina/ed63ff8c9f4ecfd9ec1e.wav"
+        },
+        {
+          "id": "cap",
+          "word": "Кепка",
+          "image": "/topics/images/cap.png",
+          "audio": "/assets/ekaterina/103e0ae77b74d8919be8.wav"
+        },
+        {
+          "id": "boots",
+          "word": "Сапоги",
+          "image": "/topics/images/boots.png",
+          "audio": "/assets/ekaterina/2259701c58704f5e39fc.wav"
+        },
+        {
+          "id": "trainers",
+          "word": "Кроссовки",
+          "image": "/topics/images/trainers.png",
+          "audio": "/assets/ekaterina/eff33d20ee6ea0b50cfb.wav"
+        },
+        {
+          "id": "skirt",
+          "word": "Юбка",
+          "image": "/topics/images/skirt.png",
+          "audio": "/assets/ekaterina/290ed2d69efdc800ec9b.wav"
+        },
+        {
+          "id": "sweater",
+          "word": "Свитер",
+          "image": "/topics/images/sweater.png",
+          "audio": "/assets/ekaterina/bc3e2683696d7b02c582.wav"
+        }
+      ]
+    },
+    {
+      "id": "animals",
+      "title": "Животные",
+      "icon": "🐈",
+      "color": "#DFF1D2",
+      "cards": [
+        {
+          "id": "cat",
+          "word": "Кошка",
+          "image": "/topics/images/cat.png",
+          "audio": "/assets/ekaterina/bbda73e17e9700eaee11.wav"
+        },
+        {
+          "id": "dog",
+          "word": "Собака",
+          "image": "/topics/images/dog.png",
+          "audio": "/assets/ekaterina/f63471a2cdbbcf9bb571.wav"
+        },
+        {
+          "id": "cow",
+          "word": "Корова",
+          "image": "/topics/images/cow.png",
+          "audio": "/assets/ekaterina/f09226c1d0e8a8e137a9.wav"
+        },
+        {
+          "id": "horse",
+          "word": "Лошадь",
+          "image": "/topics/images/horse.png",
+          "audio": "/assets/ekaterina/01abd2f4eda848b04638.wav"
+        },
+        {
+          "id": "pig",
+          "word": "Свинья",
+          "image": "/topics/images/pig.png",
+          "audio": "/assets/ekaterina/145d62f02d14347da02e.wav"
+        },
+        {
+          "id": "goat",
+          "word": "Коза",
+          "image": "/topics/images/goat.png",
+          "audio": "/assets/ekaterina/05412496340412027018.wav"
+        },
+        {
+          "id": "sheep",
+          "word": "Овца",
+          "image": "/topics/images/sheep.png",
+          "audio": "/assets/ekaterina/c94cb2ff86bd18084996.wav"
+        },
+        {
+          "id": "rabbit",
+          "word": "Заяц",
+          "image": "/topics/images/rabbit.png",
+          "audio": "/assets/ekaterina/65d186336e017d8ce2de.wav"
+        },
+        {
+          "id": "fox",
+          "word": "Лиса",
+          "image": "/topics/images/fox.png",
+          "audio": "/assets/ekaterina/6697e79075a977f6891c.wav"
+        },
+        {
+          "id": "bear",
+          "word": "Медведь",
+          "image": "/topics/images/bear.png",
+          "audio": "/assets/ekaterina/05715ac767b93fdcf382.wav"
+        },
+        {
+          "id": "lion",
+          "word": "Лев",
+          "image": "/topics/images/lion.png",
+          "audio": "/assets/ekaterina/6d49e7124ec83e773863.wav"
+        },
+        {
+          "id": "elephant",
+          "word": "Слон",
+          "image": "/topics/images/elephant.png",
+          "audio": "/assets/ekaterina/d2042980ba19d5d57bf3.wav"
+        }
+      ]
+    },
+    {
+      "id": "dishes",
+      "title": "Посуда",
+      "icon": "🥣",
+      "color": "#DDF1F3",
+      "cards": [
+        {
+          "id": "plate",
+          "word": "Тарелка",
+          "image": "/topics/images/plate.png",
+          "audio": "/assets/ekaterina/0a63a424c50cf5bd7fe0.wav"
+        },
+        {
+          "id": "cup",
+          "word": "Чашка",
+          "image": "/topics/images/cup.png",
+          "audio": "/assets/ekaterina/f8177aafed8b53008031.wav"
+        },
+        {
+          "id": "mug",
+          "word": "Кружка",
+          "image": "/topics/images/mug.png",
+          "audio": "/assets/ekaterina/ae5c73dd7ef8e69eb089.wav"
+        },
+        {
+          "id": "glass",
+          "word": "Стакан",
+          "image": "/topics/images/glass.png",
+          "audio": "/assets/ekaterina/b95b0741b41503c15698.wav"
+        },
+        {
+          "id": "spoon",
+          "word": "Ложка",
+          "image": "/topics/images/spoon.png",
+          "audio": "/assets/ekaterina/a9e04a3e44141091283e.wav"
+        },
+        {
+          "id": "fork",
+          "word": "Вилка",
+          "image": "/topics/images/fork.png",
+          "audio": "/assets/ekaterina/81e6e88d3c11b80cfabc.wav"
+        },
+        {
+          "id": "knife",
+          "word": "Нож",
+          "image": "/topics/images/knife.png",
+          "audio": "/assets/ekaterina/e3edcb9473caa4fb56ee.wav"
+        },
+        {
+          "id": "teapot",
+          "word": "Чайник",
+          "image": "/topics/images/teapot.png",
+          "audio": "/assets/ekaterina/4299038ee97d5c326bb2.wav"
+        },
+        {
+          "id": "pot",
+          "word": "Кастрюля",
+          "image": "/topics/images/pot.png",
+          "audio": "/assets/ekaterina/57658ba9eaaec96763b9.wav"
+        },
+        {
+          "id": "pan",
+          "word": "Сковорода",
+          "image": "/topics/images/pan.png",
+          "audio": "/assets/ekaterina/ac5118a617ad9f190b72.wav"
+        },
+        {
+          "id": "bowl",
+          "word": "Миска",
+          "image": "/topics/images/bowl.png",
+          "audio": "/assets/ekaterina/d946eee6814e14a8005c.wav"
+        },
+        {
+          "id": "jug",
+          "word": "Кувшин",
+          "image": "/topics/images/jug.png",
+          "audio": "/assets/ekaterina/0d48b1ecc29d492a18ea.wav"
+        }
+      ]
+    },
+    {
+      "id": "home",
+      "title": "Предметы дома",
+      "icon": "🏠",
+      "color": "#F9E1EA",
+      "cards": [
+        {
+          "id": "chair",
+          "word": "Стул",
+          "image": "/topics/images/chair.png",
+          "audio": "/assets/ekaterina/0928a78d99bd8c830ee2.wav"
+        },
+        {
+          "id": "bed",
+          "word": "Кровать",
+          "image": "/topics/images/bed.png",
+          "audio": "/assets/ekaterina/a6dc62922aa7b03cb4ba.wav"
+        },
+        {
+          "id": "sofa",
+          "word": "Диван",
+          "image": "/topics/images/sofa.png",
+          "audio": "/assets/ekaterina/8e50add7b7f130c8b5c2.wav"
+        },
+        {
+          "id": "table",
+          "word": "Стол",
+          "image": "/topics/images/table.png",
+          "audio": "/assets/ekaterina/d22ccdb9575d5e3d0aee.wav"
+        },
+        {
+          "id": "door",
+          "word": "Дверь",
+          "image": "/topics/images/door.png",
+          "audio": "/assets/ekaterina/5ec455990bdfc9a443d2.wav"
+        },
+        {
+          "id": "window",
+          "word": "Окно",
+          "image": "/topics/images/window.png",
+          "audio": "/assets/ekaterina/8f39d9dc6b71a712361e.wav"
+        },
+        {
+          "id": "clock",
+          "word": "Часы",
+          "image": "/topics/images/clock.png",
+          "audio": "/assets/ekaterina/418a8bf1586ed05c63e4.wav"
+        },
+        {
+          "id": "lamp",
+          "word": "Лампа",
+          "image": "/topics/images/lamp.png",
+          "audio": "/assets/ekaterina/d4e244c1ded1bc2ce93c.wav"
+        },
+        {
+          "id": "broom",
+          "word": "Веник",
+          "image": "/topics/images/broom.png",
+          "audio": "/assets/ekaterina/e18d86e95d6f7751f739.wav"
+        },
+        {
+          "id": "mirror",
+          "word": "Зеркало",
+          "image": "/topics/images/mirror.png",
+          "audio": "/assets/ekaterina/5f81e93834cb0652de0a.wav"
+        },
+        {
+          "id": "bath",
+          "word": "Ванна",
+          "image": "/topics/images/bath.png",
+          "audio": "/assets/ekaterina/0e7c152037186c43603a.wav"
+        },
+        {
+          "id": "wardrobe",
+          "word": "Шкаф",
+          "image": "/topics/images/wardrobe.png",
+          "audio": "/assets/ekaterina/ce665503b5730bea67cf.wav"
+        }
+      ]
+    }
+  ]
+}

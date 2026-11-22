@@ -1,0 +1,1222 @@
+{
+  "voice": "Microsoft Irina Desktop",
+  "rate": -1,
+  "sampleRate": 22050,
+  "clips": [
+    {
+      "id": "f95fd8f9d60699cf3658",
+      "text": "а",
+      "sha256": "7ce4ea2f43fd0c1908e74c059a872baa1d5ec00af426fe8b7926df352d9f0b67"
+    },
+    {
+      "id": "ed7fc93a8b945c26afb2",
+      "text": "Арбуз",
+      "sha256": "fbee6efc667543915ca70e5024170200ba630afd94647398609c93422a31c7f6"
+    },
+    {
+      "id": "f93222eae9f7b77127a9",
+      "text": "бэ",
+      "sha256": "1da38da391a76bf6e3366eafa78eaa69f7b50d7971912c26e5c97b21b2e857c4"
+    },
+    {
+      "id": "423bdbbd6f2ca02cedf0",
+      "text": "Банан",
+      "sha256": "ee11b2a179739a9f3d0dcd282530c9f1a28d7155ef91410e82cd26d4cd86e0c8"
+    },
+    {
+      "id": "b951c88ee1c124a09b88",
+      "text": "вэ",
+      "sha256": "61cd7c5cdef54fbb27ae0c8d58ff1715e86a8266f70181110d090bc4e1ac3073"
+    },
+    {
+      "id": "c9b0117b87d82a18844d",
+      "text": "Вода",
+      "sha256": "5648499dcc53b959c983008ba7e5ab3610a86b7f8cb108ed853e8f380787cf94"
+    },
+    {
+      "id": "13af91910f469aad8ac0",
+      "text": "гэ",
+      "sha256": "f89693c05466f7ae10e783d6a33cfed876283b6b04f002bf53aa351faefdfc21"
+    },
+    {
+      "id": "57a9578ef80259874d5c",
+      "text": "Гриб",
+      "sha256": "48c1f28427bb9610637478072d117caebcaf9331239a0cbbe2b5b799df466fd8"
+    },
+    {
+      "id": "23a1df124676fa0f538d",
+      "text": "дэ",
+      "sha256": "799f74820539fd45d03ec11548caaebff4bcc4bcc691d002c5d16ba0b3b2bf65"
+    },
+    {
+      "id": "1b08e7577c8ab8e028a6",
+      "text": "Дом",
+      "sha256": "56667cd6f17cc6996183890561edb065f39ddf1eecc07c095a9e9153044fc0e3"
+    },
+    {
+      "id": "90a7cb3df4a9d93536c0",
+      "text": "е",
+      "sha256": "1e1e88ecd109129fd96b9b481de93f63fe34fc9576fcfdf254edda6f372deb2f"
+    },
+    {
+      "id": "c83fc5bf2afeefe2f8b9",
+      "text": "Енот",
+      "sha256": "2621d469d234742f9c5c79b045eb04f28e3a959375ea5475d7d688979920c526"
+    },
+    {
+      "id": "b210d2362b8815c67bda",
+      "text": "ё",
+      "sha256": "f3cacdd5e918f47a8c3c76b23669350c81f20fae052d6a0395f2af5f7a2eb7ed"
+    },
+    {
+      "id": "7790b7e67f8bdadf0d0f",
+      "text": "Ёж",
+      "sha256": "91d260f449c00b0b5f8049bc3bfa10a64c3dd0f52e5327584af84494e024efd9"
+    },
+    {
+      "id": "e9d5858dbfb9feb4777f",
+      "text": "жэ",
+      "sha256": "970098f9c755597ab4f77425ecc22dac10064c745ccfbbf80095116996b0f50a"
+    },
+    {
+      "id": "491ecd6bea09c81016b7",
+      "text": "Жук",
+      "sha256": "9562cc59ea6ad2f165dbdd039542f494ace27830ffec438d48d7e767cd727682"
+    },
+    {
+      "id": "baba0f94e50349bead0b",
+      "text": "зэ",
+      "sha256": "320ac8ed379162f2a61e6ae10a89a1a41e150841f6b704422527c5b29b942c10"
+    },
+    {
+      "id": "16a52af9eb32b719e706",
+      "text": "Зонт",
+      "sha256": "87dfa8245c83e28b9c9a982e7983f84facdd71cf81548246790aa73eaa84c17a"
+    },
+    {
+      "id": "cd70c747168b33a204d9",
+      "text": "и",
+      "sha256": "918c18766c9ce31554c8569cf072d5b177f89121de618a5e54f6af0b4cbdc5cd"
+    },
+    {
+      "id": "920cfb855082988d2eb9",
+      "text": "Иголка",
+      "sha256": "001c927005e0b68b3466c899ea732b1628b9662680bec7c91f96e0fa4aa27013"
+    },
+    {
+      "id": "6a9e131767967971332a",
+      "text": "и краткое",
+      "sha256": "38f86116dedc2f9565e4998a3566d9a1575c56ee8d1a5eefc12069fc9da5c7d8"
+    },
+    {
+      "id": "06b869af40a9ccb742fd",
+      "text": "Йогурт",
+      "sha256": "3fa8e633de133796bb780ac7157dd035f94e0bd4cc21fa13728cfeb66aaef237"
+    },
+    {
+      "id": "29be78206762e16ed659",
+      "text": "ка",
+      "sha256": "2c7b64d0410d85bc807a7a35c8ab0461aa736500528b9438f2fc5897f55e2a30"
+    },
+    {
+      "id": "2e2db2d53534bd49a6ec",
+      "text": "Кот",
+      "sha256": "9c66cb594d6af727a20ad1e4a580b281b535448bec6735cfd80c8a5ac831ea5a"
+    },
+    {
+      "id": "9b66efcb81e278cccad4",
+      "text": "эль",
+      "sha256": "2d1a9b4a6369e7dcfcd9f226d893f265bbe33f9ec758ccab84beb20028b9fcae"
+    },
+    {
+      "id": "12c0c3e6e7bde764601f",
+      "text": "Лимон",
+      "sha256": "ed21b9396b5ff625ecf04108710524b7f4faadf4dc17cb794082feb694c60e41"
+    },
+    {
+      "id": "e914d6c5d170cfabf1ba",
+      "text": "эм",
+      "sha256": "1042121cddcd24e25da3ff035ec7621a6e3196e2b18951260e4cb3e22b693d27"
+    },
+    {
+      "id": "126a8a7f0894b72d55ae",
+      "text": "Мяч",
+      "sha256": "11b564efead39c3f363972fb873c35fac24124b08bae3b761883006db8bd691a"
+    },
+    {
+      "id": "d440f734473fdc6a1027",
+      "text": "эн",
+      "sha256": "19a42cfcdb9668795a2ba148d5fd9d1c496791351c84f5533658618d2f173c18"
+    },
+    {
+      "id": "f429a7f7f9ed2b3bace0",
+      "text": "Нос",
+      "sha256": "a927ce2f76fe5a308f465ef8a66860fe370294ebb131997a0bfd1e1642318048"
+    },
+    {
+      "id": "91a253d34007dfd3fa2f",
+      "text": "о",
+      "sha256": "7ce4ea2f43fd0c1908e74c059a872baa1d5ec00af426fe8b7926df352d9f0b67"
+    },
+    {
+      "id": "2269d006d63f7f36b8a0",
+      "text": "Облако",
+      "sha256": "7824c8fc626a46a2492487d549e6441cc7049a6a135f400b34f3305d7b1639f3"
+    },
+    {
+      "id": "2431dc8c988eaa479517",
+      "text": "пэ",
+      "sha256": "77dc87d52cb98219310fb36627f0a9d2cd5fac093b75947cf1220e54bb313f85"
+    },
+    {
+      "id": "02aa083fffc0e3852817",
+      "text": "Пингвин",
+      "sha256": "8185895fb79d5ff45a19b690bde62cb551707abcc5a28e72e4c9f9444da17775"
+    },
+    {
+      "id": "063ec3ae51630b9b2bd6",
+      "text": "эр",
+      "sha256": "35f203c737143fce61de751656e8a51f10f2e5d2b059b3a2a501301c2247ec63"
+    },
+    {
+      "id": "0afb6fbfb592e8f6227a",
+      "text": "Рыба",
+      "sha256": "fbec2f08ef155285e16ca5494deb9ae0cf4c2d19eff549fe6ac459aa710bf6dd"
+    },
+    {
+      "id": "412db279c26f805b1078",
+      "text": "эс",
+      "sha256": "19a39c0b55d345641a65fffcb82f1a21442f251cd70421ce0a30782bdfe5f0f2"
+    },
+    {
+      "id": "be808c175dc5f2a09cb5",
+      "text": "Солнце",
+      "sha256": "6cfdf48236d679f25d002a99953a932dae1b328abc293ae5685c1f66d1766437"
+    },
+    {
+      "id": "756a65a7f8b610a79b75",
+      "text": "тэ",
+      "sha256": "191efd6c29083e690df02916533f5b16775a7dac85df451a7eff8082037be072"
+    },
+    {
+      "id": "6440d9771d6c7fcd130f",
+      "text": "Тигр",
+      "sha256": "cf122fdbfa5a5d5e3daaf02265807c94a1edb4c3dd780e803f97d6626a51d148"
+    },
+    {
+      "id": "dbb21b227aeaa8712480",
+      "text": "у",
+      "sha256": "692b03b7dd928aecf9b2c9639efec2e16eb59a88e79adea541d3f1761e4bc286"
+    },
+    {
+      "id": "e1106e6288bfe28f0d20",
+      "text": "Утка",
+      "sha256": "a233769638cb7765823e88cdcbe735fe4a318ca9eda11ca4f2f9e517bf411a11"
+    },
+    {
+      "id": "937c949acce2a99e4fc9",
+      "text": "эф",
+      "sha256": "3aaa6ab87fc55916ed53986b1a25a2264d39ad76f8a366e717b1477ecd5e880b"
+    },
+    {
+      "id": "457734f19ea9d3183121",
+      "text": "Фонарь",
+      "sha256": "49c260af77d80e31274c1cc442af04a8462a4888528cba6ed2b4bfdd944539b3"
+    },
+    {
+      "id": "21d15a168d8221508494",
+      "text": "ха",
+      "sha256": "74f9ee0dc281c8dd053f189f30893626fb1c1875d3495fced12e909a0ba7b9bc"
+    },
+    {
+      "id": "8a04d64f6b4a3abf8f6a",
+      "text": "Хлеб",
+      "sha256": "bd0f1f8f2c6ead17def1a50ce8db4e564cf08a6adf9110704682b1f7f0890756"
+    },
+    {
+      "id": "3e7c80a2913345316830",
+      "text": "цэ",
+      "sha256": "24e8e42f13951e6afe94235fa00bcfddf13fba28af0681ca88280cb4d76bb72d"
+    },
+    {
+      "id": "f96b0c227a4d1a728dd4",
+      "text": "Цветок",
+      "sha256": "bbca3ae95504e2045e4a06090b3186b2dea824e94708755782bd1459a61adbf0"
+    },
+    {
+      "id": "fb6fcfbeaaff7ff5ec44",
+      "text": "че",
+      "sha256": "6399e749c1cb5498e1e925a2cd413dda70bf18438afbbe0540a6dcc019ca25f5"
+    },
+    {
+      "id": "1a48f2d78a338bfbc62e",
+      "text": "Часы",
+      "sha256": "a150f599419a90d781b4af16f46303c5be0187eb3f137b3136758960afdaec8d"
+    },
+    {
+      "id": "6c33838963d1c35a6b9a",
+      "text": "ша",
+      "sha256": "93bff4b3924bd19b7f898aaa0bcc595de435be52ed4cacde947b56f22e06ce2d"
+    },
+    {
+      "id": "26cf7b2d618e5b0636ad",
+      "text": "Шар",
+      "sha256": "7aee2725fd8684cd6777bc004805494662cc3305a37b2aa38b0a1d1bf782d9c1"
+    },
+    {
+      "id": "789f2df05093ed9d58f7",
+      "text": "ща",
+      "sha256": "12f17f827c077cdf40aaf5b8fc594e443f9c5bc49dc63a43a83f90e852da47c8"
+    },
+    {
+      "id": "06220be4a5d269551042",
+      "text": "Щётка",
+      "sha256": "57bfe32841352c24662c1fa67dac2c438f8c348e044af496144c5d0ee91fdab9"
+    },
+    {
+      "id": "1d31d8d574c46579b9f6",
+      "text": "твёрдый знак",
+      "sha256": "e23faabb355fb87d82f55a285c514514b0ffcab15097fe89b656071b73594280"
+    },
+    {
+      "id": "935f9451641ff354bfbf",
+      "text": "ы",
+      "sha256": "6ac799f9812f3ae3bba6d9113fbcb3a78c9219d78b1e78d11a9dd9ec5c99d255"
+    },
+    {
+      "id": "c2abdb373c0ad652e25d",
+      "text": "Сыр",
+      "sha256": "b657fdcac7aa3ce34344eca5b119b6ba37259d66a7bc89d68ad02b72022e66a2"
+    },
+    {
+      "id": "f0c82f624b13026a022c",
+      "text": "мягкий знак",
+      "sha256": "a4d5caa08f6b34ecb2682a5916fdc07b8ce0cb334bdcd881ac599d3a2d6494a7"
+    },
+    {
+      "id": "68f413900ca33403e52a",
+      "text": "э",
+      "sha256": "ce8eb06bf89d3555041f18255bdbdcdcfbcc358454997758caa353c496158546"
+    },
+    {
+      "id": "f80b4123619dca1cc81b",
+      "text": "Экран",
+      "sha256": "57b089178eed4df8580b1991d1d019f713b769585267d2fc277669b617eac02d"
+    },
+    {
+      "id": "a8f4e9e915eee8928124",
+      "text": "ю",
+      "sha256": "3178c445f46414b5f6114eb39407e82721e1f978756bc76e8fc4cb9c7c61c802"
+    },
+    {
+      "id": "aae0d7a81afe73c470bd",
+      "text": "Юла",
+      "sha256": "ecb105556eec2a8308bbd06c685f0b6a5617e2135870675c99cd3b3c34050838"
+    },
+    {
+      "id": "7e728053b4dbfda7e5f6",
+      "text": "я",
+      "sha256": "cd26615e1a0647a35ce4b1fbec0aaedde1ca89c1a02aeba589add21d17700a7e"
+    },
+    {
+      "id": "e649945f9fe1c577f526",
+      "text": "Яблоко",
+      "sha256": "47d21854bade8b1c27e57b9942bc033ffb8b970a2706c4cac570f2684e6ece2c"
+    },
+    {
+      "id": "8b7cf4ef97346d89ee97",
+      "text": "Один",
+      "sha256": "2b4fd412a7c2267bb548eb7101f7e7911ce58ce8cfdb26f6a46d9ec54e4e987b"
+    },
+    {
+      "id": "b55aa7ecc5123d13eed3",
+      "text": "Два",
+      "sha256": "41a0c722ec5781f8218d7c70471bd66ef8539f135fa7c8c697b1ab40476b20db"
+    },
+    {
+      "id": "0ce77844af21adace618",
+      "text": "Три",
+      "sha256": "68644d431c31bdcf2b9233ccc3ce2876967cacdecd669c230e6af1668f09a557"
+    },
+    {
+      "id": "5c1ab2d8582d317fa306",
+      "text": "Четыре",
+      "sha256": "fbd7129ff7b19bcd0396594888b7dcb8651824563c582513479421ad0515d8e2"
+    },
+    {
+      "id": "fbf8908563f177cf9541",
+      "text": "Пять",
+      "sha256": "53a4b41b4df23cd51d6d4f57fe86645d94fd5c078b650e1657916fbea748d39d"
+    },
+    {
+      "id": "2bddba4f3c85b1a0e1e0",
+      "text": "Шесть",
+      "sha256": "7e925f9da8ea3abb610e6f135abc89b39d3200fc529c8b9b55a0327cecf9d759"
+    },
+    {
+      "id": "a018be9a099ff6c97d5a",
+      "text": "Семь",
+      "sha256": "3a65a14dc0657be393bbcc67db0fa082adb7dc992ad2360ea731661ec47b2be3"
+    },
+    {
+      "id": "d24b17444e6526e4bdb2",
+      "text": "Восемь",
+      "sha256": "39880a9620dd2132521cc0fb8b9eee08b61830d4e622cfa65957adf034cfc816"
+    },
+    {
+      "id": "19e592e208d50f263a20",
+      "text": "Девять",
+      "sha256": "3ff2d207adf7d8173a1f4138a4fb4daea4f3306e643930418161dea4a703de09"
+    },
+    {
+      "id": "98593f64ca95f7267973",
+      "text": "Десять",
+      "sha256": "0bd08a4519dea51cb6c02c9eaeb02f8760e48a8d76462f853e7ade9a6acb7e15"
+    },
+    {
+      "id": "7e4dcc63fb9f5e7e4e42",
+      "text": "Одиннадцать",
+      "sha256": "d209b3a82cace650d78c7a2085aa8a8254879dfa812379760f24395355e1ef7f"
+    },
+    {
+      "id": "2da89c9a9574a4575f3a",
+      "text": "Двенадцать",
+      "sha256": "74c76d037a690a654fe48b8f2b02aba2ec1369a19432eab1756e15562055ad4e"
+    },
+    {
+      "id": "78cc8d348a41af0895af",
+      "text": "Тринадцать",
+      "sha256": "c638615df4fc684f8e8df1146f54de03785e3183514a6732192245777c664b61"
+    },
+    {
+      "id": "489983b0b381440b6f8f",
+      "text": "Четырнадцать",
+      "sha256": "7b3eef2118ecfc29539062e1460b09c6fdba8f45250cb106f97160dd4625c72a"
+    },
+    {
+      "id": "863739dd050f81d93acc",
+      "text": "Пятнадцать",
+      "sha256": "42f4ff6afeef41140a5fe31f80f0f59493f1b86f8f5ce034c3823cc7cb91e942"
+    },
+    {
+      "id": "3481dc30b681292e376f",
+      "text": "Шестнадцать",
+      "sha256": "8b2c563536fbd11e998f3476f5cc5afa1e629238d460a8a882e4066076e77fa4"
+    },
+    {
+      "id": "2df7d60665412abf1faf",
+      "text": "Семнадцать",
+      "sha256": "4b2b79b14fccf9918da57f7f7817b113cacf2ab9726fd1c499c0918c4a0cd283"
+    },
+    {
+      "id": "6cd387336eac1f88614a",
+      "text": "Восемнадцать",
+      "sha256": "b281f9c09f947bd1fee5294c06ccadb1840e10f9b22e2fe0690f2dc1d458973d"
+    },
+    {
+      "id": "133d9a092598e7bd60c4",
+      "text": "Девятнадцать",
+      "sha256": "7029124556240638a93fe17f41012130b0cc03263b53725a5c4dbb61581d8f33"
+    },
+    {
+      "id": "0c0281f66ff66395b0af",
+      "text": "Двадцать",
+      "sha256": "1c4bff6ffc2d65621ebeca1aa32ab752245ad623cdba010e3cada2808d07dca2"
+    },
+    {
+      "id": "32cca7c9a0ea6b3e8474",
+      "text": "Двадцать один",
+      "sha256": "1aab80cfb7d791c273046a3fc0286cce9a6ce205e5880b5c01fe16cc96879897"
+    },
+    {
+      "id": "d56c8c99c4af3531efea",
+      "text": "Двадцать два",
+      "sha256": "6da06fb8600dac80ad8cf9d0197bb533297ab6af6d6808edc8ae774d955629c0"
+    },
+    {
+      "id": "eb8a8d86a4f0910f4029",
+      "text": "Двадцать три",
+      "sha256": "5ce32e9a5473c271c3b762da2faefc530b2ed556ee6c6d12c7ff421eaddc31bd"
+    },
+    {
+      "id": "5c15d4518ce47bf50177",
+      "text": "Двадцать четыре",
+      "sha256": "d21af038991460d74ee9812f37ca0b822db5fae402add8998f4750bfcfa361d8"
+    },
+    {
+      "id": "b428979fcddbd70058d1",
+      "text": "Двадцать пять",
+      "sha256": "1c9084aa8620107969b214d16896e52b453413c9e49505f12ee82dc34c06968b"
+    },
+    {
+      "id": "6e4e3adc91f816e4ec21",
+      "text": "Двадцать шесть",
+      "sha256": "9bf122aa14b18b279f82f1ee0d1c34b26b92e89e5bd3ca347717430ee973b592"
+    },
+    {
+      "id": "8ac1703306cfc2881145",
+      "text": "Двадцать семь",
+      "sha256": "bdb74f9b5a426c3df7a9ce7ad71edb90a0d3c0d8e9dc5f3fb7ff201e08bae2d8"
+    },
+    {
+      "id": "c938500de240fb021a18",
+      "text": "Двадцать восемь",
+      "sha256": "6e5d8a361f27ac6bd0e238a0f6d38b9de76ac1758b1ac3d17695dbc12373a5ad"
+    },
+    {
+      "id": "be5a6b7ead08745da05a",
+      "text": "Двадцать девять",
+      "sha256": "de35cdf8b5a949ac9e5d194fc088e92e86017e4af34b118b1333a733387d4bb8"
+    },
+    {
+      "id": "d8f54b4a162126affd95",
+      "text": "Тридцать",
+      "sha256": "8bdfc0a60208f2ed77cecd22ae5fe1480c6409106ba656657857ee4ee73656f6"
+    },
+    {
+      "id": "48566b7029a26a078f13",
+      "text": "Тридцать один",
+      "sha256": "e66c1fb3f1174ccc6c663c1d57656bcae046b1736017c526ffb9c42dbb68a31c"
+    },
+    {
+      "id": "9c34e5a9aca986f1817b",
+      "text": "Тридцать два",
+      "sha256": "c048adce40d498db5779ae1121a04a15898989c3623c33bac2f4884d1622b14d"
+    },
+    {
+      "id": "ded73e648d285a838f1b",
+      "text": "Тридцать три",
+      "sha256": "e1e4565d1adef27c295d1fefbe6f23eafe02d8df40c7e3c7a82620e49401b7fe"
+    },
+    {
+      "id": "a84201452d7968a288c9",
+      "text": "Тридцать четыре",
+      "sha256": "38174cf1bb384eaf79645343903ac358bdaed929daf4dd5bf4d9be4dce675be8"
+    },
+    {
+      "id": "6ae4e769978d049b2e7e",
+      "text": "Тридцать пять",
+      "sha256": "7451d5144cd90b4d27a61817ffe8260bcf0cde72cdb917e95749c44808c84a01"
+    },
+    {
+      "id": "3ac6c7b28e93609c524a",
+      "text": "Тридцать шесть",
+      "sha256": "2eaf7032e1ae6c1ff22e96ba41037c81f89586c76c08d784c626729090a5ac8f"
+    },
+    {
+      "id": "8402ef49947b7a64988a",
+      "text": "Тридцать семь",
+      "sha256": "c231d4125e3e5ddf22694be5ba6e5638ab9fa52cfbe17d2a985251fc4a267ebc"
+    },
+    {
+      "id": "638b5445e13976f22389",
+      "text": "Тридцать восемь",
+      "sha256": "a5855367cede7fdd9fec5d4096a6cdd2c304286cc8c802d49e5ff42852db37fe"
+    },
+    {
+      "id": "78a624b620cda31d8e1f",
+      "text": "Тридцать девять",
+      "sha256": "3ac73aa9cf13496a5dc2862e8f5e814ff061e78fc6b6b0a4d1a6be9ff6854837"
+    },
+    {
+      "id": "481461b009b8720f8321",
+      "text": "Сорок",
+      "sha256": "17f8c6187fb4aa2849b007a1229a323adcceed57cb166b586692fd93a0378d8d"
+    },
+    {
+      "id": "16f7890840bba2887f71",
+      "text": "Сорок один",
+      "sha256": "cd318f3c8f8a52ad3a7bf806704e8bec811eb172ebe6cbf00f15c54125b9e882"
+    },
+    {
+      "id": "b08515a5032d73ab19f8",
+      "text": "Сорок два",
+      "sha256": "e2086ae94ba36a67ecd3fe8c260c74dc970994fee42c2ba3e0d6ac598819e164"
+    },
+    {
+      "id": "48c5e3ca00e599f9f14e",
+      "text": "Сорок три",
+      "sha256": "1909813c5fac6bd74ba59625aede72f8d1116de1b46d3e96a5e38d467c497042"
+    },
+    {
+      "id": "14877ffc3bd6af769026",
+      "text": "Сорок четыре",
+      "sha256": "7fa21f6bbab2c020515e74950ce6d47a3d1c6e3ee7d5850c3ef2511a2464352b"
+    },
+    {
+      "id": "02d183ccfb842ee9acf3",
+      "text": "Сорок пять",
+      "sha256": "2750e85a5016341e60d9e79fd2612056defa06f9272af5c0c64fb2f24d08f6ea"
+    },
+    {
+      "id": "7e8a4b2f002881888f8d",
+      "text": "Сорок шесть",
+      "sha256": "5cdec69752f4b82ebca76ca0d0bc68c3d1e435c4aab977099c8d58aae178917e"
+    },
+    {
+      "id": "8670ac337de042d8feee",
+      "text": "Сорок семь",
+      "sha256": "af8441e7593b03a63fd76649b94621e8023efc3718e58c85a6e950d2b30a786c"
+    },
+    {
+      "id": "7f670ef376803955e382",
+      "text": "Сорок восемь",
+      "sha256": "3acd8c5761b39cd079875bf93c05b34c33df5e564d93f6f204ef5ed297f8f719"
+    },
+    {
+      "id": "a64a0fee80cd5a3239a4",
+      "text": "Сорок девять",
+      "sha256": "7e3ab4e4ea8d6ab601240e14ddbf2c8552957c89e6179321120a5f8f67f79c2b"
+    },
+    {
+      "id": "64d212658fb0e3b736f6",
+      "text": "Пятьдесят",
+      "sha256": "c63fb6f7b59e15ffb1d1dcc9bc6f68a8a170856a132aa0645a2f01a3ff3e29e4"
+    },
+    {
+      "id": "b3f97fc0ccf50e3317a0",
+      "text": "Пятьдесят один",
+      "sha256": "4d5426166491b27c79730037379a9f94078a793dc2601eb6a7bbb1e910681af6"
+    },
+    {
+      "id": "b1e829e915ada7fc2c43",
+      "text": "Пятьдесят два",
+      "sha256": "0526b509a628e18594e24469e9bb88da7a9b6452215516e5eb2d2411377e9503"
+    },
+    {
+      "id": "7e8a846265382508c08c",
+      "text": "Пятьдесят три",
+      "sha256": "e0e29d2884a2494e7689ceb410be10efefcdcf3e40be9cf552921e4597308e11"
+    },
+    {
+      "id": "01c994d92f848dca9978",
+      "text": "Пятьдесят четыре",
+      "sha256": "a1dba42cb91b870695273bab5d6a1241ab744715b34f6e6e2e9283ab58cb77db"
+    },
+    {
+      "id": "25458f53b3b50f5aedf6",
+      "text": "Пятьдесят пять",
+      "sha256": "e85e37d28c3323708ef13a8caf6b9f1cabd1426234ebd5627094fc8ca3545cd4"
+    },
+    {
+      "id": "49232b707b02ec65a0fe",
+      "text": "Пятьдесят шесть",
+      "sha256": "a35e04f2624cbd916b130691ef3fc5a9ab8ff523e4aafdc69410dc289de1d09b"
+    },
+    {
+      "id": "843950c06a17694fdb98",
+      "text": "Пятьдесят семь",
+      "sha256": "296307028b3da063043843b50966381fe5328732a8e3309fba8d69c6afcb7379"
+    },
+    {
+      "id": "695a5c918cce1e88d05b",
+      "text": "Пятьдесят восемь",
+      "sha256": "b173ceb32a2a7231821238ef0070c9bf06256c3b4237e9f7ca18dc2731979d2b"
+    },
+    {
+      "id": "c0571a75f21a909d84bd",
+      "text": "Пятьдесят девять",
+      "sha256": "d4c613f9cd4615c2fa71d6eb14f5cca60e9a5e7057445f9b1344f86774d64723"
+    },
+    {
+      "id": "4ee4b5c58cee2ad47313",
+      "text": "Шестьдесят",
+      "sha256": "7afab5cbdcf2ac221beceb7d4af838fa6f7c6226a55f3210649219f79e4bd32c"
+    },
+    {
+      "id": "824c39bc881589d96b55",
+      "text": "Шестьдесят один",
+      "sha256": "60672ad646b156dec8e380cc77a598e2b647bd0372559a9f328a2115788d0b7f"
+    },
+    {
+      "id": "455a11070aa77f797aa1",
+      "text": "Шестьдесят два",
+      "sha256": "30be78bb3f1523bcdd586f66e3c6775293c033d3d7cfa0041443a81858f2101b"
+    },
+    {
+      "id": "d2a98708dc171768e474",
+      "text": "Шестьдесят три",
+      "sha256": "69583c710836303f8da0392ad8154b003ef337f856c799b6962bc5d1715b3a52"
+    },
+    {
+      "id": "90bf3aca0d07d9869daa",
+      "text": "Шестьдесят четыре",
+      "sha256": "ad01d961e12d77100fa20988c8ce4343b51594c8aa811b17f58f8cd2f05b80c2"
+    },
+    {
+      "id": "130a9f81c03b99b5f8b8",
+      "text": "Шестьдесят пять",
+      "sha256": "5fff9098007d2d2df0a20ce9e3ba14a356a68746a9640d68032d6e9d74314826"
+    },
+    {
+      "id": "9fe056f11060dddac1bc",
+      "text": "Шестьдесят шесть",
+      "sha256": "c2c32f4a7e56578b63da93ca4df6e98d3a2bf7bfb0dafb9ccae4237bb9e9fa8c"
+    },
+    {
+      "id": "5d1118b4345e160f63a3",
+      "text": "Шестьдесят семь",
+      "sha256": "4116a3740450bd43fadda7c0ec5ef05321122b0144ad25d1ac9d5e901b077e2f"
+    },
+    {
+      "id": "cf67d8b2f7910cc09a07",
+      "text": "Шестьдесят восемь",
+      "sha256": "adde967fc92ab004465ddeb6022493c43abc0d2db355540c890e800f8e8b2bf8"
+    },
+    {
+      "id": "38f75745178ff437e4cc",
+      "text": "Шестьдесят девять",
+      "sha256": "372be74c521db597f0aaa8990096d9fd8e8c1c63aa133dcf154b0f3662b57083"
+    },
+    {
+      "id": "313081a394077d34f1dd",
+      "text": "Семьдесят",
+      "sha256": "ba28a90be82b85980cb86622303a79fb69c581c73842fd59abc8dc9c830576d3"
+    },
+    {
+      "id": "f38d657023e535de1c44",
+      "text": "Семьдесят один",
+      "sha256": "5eda338b998d7e3e62863b333f09e8cfb9f018a3dc120f8b28cfdfce53ae8cd3"
+    },
+    {
+      "id": "1ee1ab0ed9dfcbf99d6c",
+      "text": "Семьдесят два",
+      "sha256": "f036c9304fc1adde6323aa2df5e8217f8987a4a0733b4cffd3e863ebaf7a8a60"
+    },
+    {
+      "id": "298bfe0f8f33481a29ab",
+      "text": "Семьдесят три",
+      "sha256": "af381e9466099d7ba1112667a0f5b422781de2da064a96578849b81e230836d8"
+    },
+    {
+      "id": "0a86b58501ed9555fc78",
+      "text": "Семьдесят четыре",
+      "sha256": "55eba1867539c082ca049dab7d48504e6231ecef1400d2d892e03441efba70ba"
+    },
+    {
+      "id": "bf2fdb3c74b34a19b493",
+      "text": "Семьдесят пять",
+      "sha256": "c8f4f39324886d25b6e78a0ea03ec7df5e59317370a283855916a00fab29e6e1"
+    },
+    {
+      "id": "92add60f6fb9db1ec38d",
+      "text": "Семьдесят шесть",
+      "sha256": "e4619c8276cc7eb108b4f369da83e92a03f040022ca09d38b943d40566d0ede5"
+    },
+    {
+      "id": "1a938c8a90d3c3f79544",
+      "text": "Семьдесят семь",
+      "sha256": "cf12489e8791c9dcbed5ba1b4f6c408eb189f8aa429b6fe7c9ac9de697fe6254"
+    },
+    {
+      "id": "cf63abe63cee9ae63c6c",
+      "text": "Семьдесят восемь",
+      "sha256": "5e740c74beab8ecbd04deca20abcb2f864335ee98fd2bb1726e6726deeed492d"
+    },
+    {
+      "id": "abb320839b83dc3eea78",
+      "text": "Семьдесят девять",
+      "sha256": "0829244244cac3bd88489ce9c72666b062a15dfab15b5d70fd6034f4f33cd981"
+    },
+    {
+      "id": "741ce0517394635c6ba2",
+      "text": "Восемьдесят",
+      "sha256": "7c3f7b3472246ae4098e427673c1f3dbc47161696da0c64c724f822d2e74ad62"
+    },
+    {
+      "id": "3caa169703c5bbf1c12b",
+      "text": "Восемьдесят один",
+      "sha256": "515ad719c260c0bedc2f2f12ffadfd4a4a8b0c05a686b02db600a0dfec1b447a"
+    },
+    {
+      "id": "3c19334cce4970bf9b08",
+      "text": "Восемьдесят два",
+      "sha256": "f86a191dc2b5b1710bc77b901b538c83c85f6a0ccdd06dc8dc036b463e244c78"
+    },
+    {
+      "id": "bac43592a7dc79c8e23c",
+      "text": "Восемьдесят три",
+      "sha256": "de432b932f0ff84e21a32a06a19648a69600b86b4338975ac441d5febc1aedc8"
+    },
+    {
+      "id": "6c548c679e60b306ac78",
+      "text": "Восемьдесят четыре",
+      "sha256": "6f7ac6a4fc8d581c906c8d6b17ef321518d201ba88edff2737db3a3108a37903"
+    },
+    {
+      "id": "247ec2230ac1d8e5567b",
+      "text": "Восемьдесят пять",
+      "sha256": "50fd040d9ce38805f86b8d273c2af46cb33975eac48545602811c3c23951d066"
+    },
+    {
+      "id": "5843660298e08c5c5ab5",
+      "text": "Восемьдесят шесть",
+      "sha256": "f698404ef3fbdbba8103565628a8ba61df70e915331f81063a3c77012e7c55ae"
+    },
+    {
+      "id": "a170ea34292853f193f8",
+      "text": "Восемьдесят семь",
+      "sha256": "26749a9f226d3c60683a43a7e6d5b5b4355e9937fbd82eb408cdec19a08e24d5"
+    },
+    {
+      "id": "18bc130ff46932959956",
+      "text": "Восемьдесят восемь",
+      "sha256": "eb1871261871256cf2c5c7d4ebaddf216e7d8b67d25de6c64193aea06aaf41a2"
+    },
+    {
+      "id": "8eeccafa868406ae4d67",
+      "text": "Восемьдесят девять",
+      "sha256": "79cb9ac8244bf45e899434f174a2cd8fab1c0c89679d377359b0814ffbe9a339"
+    },
+    {
+      "id": "d1506475bdfddbea69d8",
+      "text": "Девяносто",
+      "sha256": "9bc07a63c257285af28501b15080c2b6308fa51b8b26714f075802be584e3127"
+    },
+    {
+      "id": "2a54f70bd287ae93a6a8",
+      "text": "Девяносто один",
+      "sha256": "36321fe2841bf456eee37aa626b78c159635057361ca40b59504884a7750ce77"
+    },
+    {
+      "id": "e6d73707f38a2de76c49",
+      "text": "Девяносто два",
+      "sha256": "87f95e7cdfcb58ac1badcb9ba30132c546576df4bb5dc487e7bcf9d83ec26415"
+    },
+    {
+      "id": "e2278f244809f2d34ab5",
+      "text": "Девяносто три",
+      "sha256": "9fe11f6134c9f057cace8ba49b925262b3bfa18b5c780f8d8fd2c56940e643a0"
+    },
+    {
+      "id": "cabfae40c8dcea17b572",
+      "text": "Девяносто четыре",
+      "sha256": "ced19587e2f2105495dca3cd518db9ca89a10463d9f0e63856b12917cf143824"
+    },
+    {
+      "id": "34dbe474ed59ec04acbe",
+      "text": "Девяносто пять",
+      "sha256": "8161d3105d23a597389d0ee3167f4d78a103035448d2f933a2e0ed4c36341611"
+    },
+    {
+      "id": "61df785cb68445579985",
+      "text": "Девяносто шесть",
+      "sha256": "045730a54bfad5f008cddb349e69dbc38c1ba0cc654245220a6cc4a83348d602"
+    },
+    {
+      "id": "263e8b7df5fa0059feca",
+      "text": "Девяносто семь",
+      "sha256": "329eb7547b3fe3a0e72da890a47931a7baf80eca6015ecf2fd1dccc1dcb0fd03"
+    },
+    {
+      "id": "787077c3842706477a4e",
+      "text": "Девяносто восемь",
+      "sha256": "85081eb328b4e6a5cc3dc92fe2b5454f942844f4a85598e6c3fc58cdcd17123e"
+    },
+    {
+      "id": "b4b66ee4541e15f0bf6a",
+      "text": "Девяносто девять",
+      "sha256": "c29e5cf57c4302d39f5988ce4f54b098ddeb2a158ea9e8d2547a29142fb27495"
+    },
+    {
+      "id": "5d5de5e39c95736bb514",
+      "text": "Сто",
+      "sha256": "2b6bd7cb098bf23f3e7132833f5bb1da7ef452c1ab746eca0567abb63d720182"
+    },
+    {
+      "id": "5d56ddde01ae28ac66e0",
+      "text": "Сто один",
+      "sha256": "dfdcff182ee278d1693bc9a6cf1f2b16382c239d6b964c1805d97dde76ecaf11"
+    },
+    {
+      "id": "4d858f77c94bc248bb0b",
+      "text": "ба",
+      "sha256": "2a87ecf04f242c1438998fa63c5a06c98a25abd861dce16dabc010083df0e446"
+    },
+    {
+      "id": "9769531da96cf6d0d6d7",
+      "text": "бо",
+      "sha256": "17b93877d5205e0337983cefcc0889205e68d04ba66cfb7f7345661e368bab94"
+    },
+    {
+      "id": "8154cdcd283ae9169921",
+      "text": "бу",
+      "sha256": "54c6457ea1e6f941ad2394c3998d3eacba15fcf18834730efa5e0eb37803f5ba"
+    },
+    {
+      "id": "fc14586adc7e9bae3015",
+      "text": "бы",
+      "sha256": "b50f18f8dc5d42b84e4753726c729f210d40ecdaf91e0af9ff785499a6a82c1a"
+    },
+    {
+      "id": "9c3d15d65b34fe3fdb48",
+      "text": "ва",
+      "sha256": "f7ab3be917d543566ac96f82f9d642336fb33861f63f47b822c68d4306a38aa1"
+    },
+    {
+      "id": "312bba4c0fec756823b8",
+      "text": "во",
+      "sha256": "6bbc103eeba4401b62ceb99956cb18d0b24bdf274a4f8108de41b4823c1a827e"
+    },
+    {
+      "id": "cbd50e4c640ae20df4d5",
+      "text": "ву",
+      "sha256": "2e1ff4019cb2534100f511e63c08cd5bccff56db459872f8a4d5b6f0b0e3a051"
+    },
+    {
+      "id": "1468e497fc3ed15a493c",
+      "text": "вы",
+      "sha256": "f597a7714a136c7797faeb88767a1604c9fae102108d0ceb3dc74944ec2805c7"
+    },
+    {
+      "id": "3bc2fec8c4939519ad52",
+      "text": "га",
+      "sha256": "e71090f1b3d512104eeb4ccff0ef1cfcd359a22e068480dd879495948245fd32"
+    },
+    {
+      "id": "845d7eb537f0286e6957",
+      "text": "го",
+      "sha256": "a037c3cd6f58999cd959eb2dfd831a3f1b6a6bc3293f30a53e72184229c0c679"
+    },
+    {
+      "id": "01c19b79da1d8aa88d1c",
+      "text": "гу",
+      "sha256": "223cde0e55834fd1667e8b1ca12021239e99ce01d3f41b3bf157c1176530eb37"
+    },
+    {
+      "id": "a36a1c6d5646bb83a640",
+      "text": "гы",
+      "sha256": "e84842d075abd8a53ebc494fbd00b106589e9beba58563ff4b06bcf4921ce2d8"
+    },
+    {
+      "id": "0a7024788bb9ba431036",
+      "text": "да",
+      "sha256": "b7917dc68ee212757ea4f203cca9e94ee59b49e322848c4789c8dec33a43d2e0"
+    },
+    {
+      "id": "a34e7c62886a8f5feeb3",
+      "text": "до",
+      "sha256": "220d8bacaf2707bb6c0a1968e4153de88faf629989d4bd33c990ae75b396e1b3"
+    },
+    {
+      "id": "5c7c17965e8b49c5bfa2",
+      "text": "ду",
+      "sha256": "c97367c39aef2e8e30fc3696c51ab625ab8bd85ddc8578fdf49228d9adb33faf"
+    },
+    {
+      "id": "8b829cba85132ee8048f",
+      "text": "ды",
+      "sha256": "012247fb4f564266a92d39a472f15b93e0ab6058384d4889753bde8aae69b35a"
+    },
+    {
+      "id": "73e9b5f3f7544dea4296",
+      "text": "за",
+      "sha256": "280b81890bace60b5fad0b53e7ee4198c8cca4adc70ee3180dfb4839093ff239"
+    },
+    {
+      "id": "b8360bcc5189d7f61ce8",
+      "text": "зо",
+      "sha256": "280b81890bace60b5fad0b53e7ee4198c8cca4adc70ee3180dfb4839093ff239"
+    },
+    {
+      "id": "ce853a50586e995599f3",
+      "text": "зу",
+      "sha256": "bed557c79f7eef6c2a723e9bd38779c28061ce0484c417ae74f0138c1a3c3d3c"
+    },
+    {
+      "id": "cb6ccd355850318944e8",
+      "text": "зы",
+      "sha256": "482283e1d7bcb7ce54118640584fbb3f82b4891da0e01df841b5593d7230b7de"
+    },
+    {
+      "id": "921d9273639afa0e9b5c",
+      "text": "ко",
+      "sha256": "e89d205c22251425383ae14028a2fbcc006816cc516e0761b36f1cacd52bcdd7"
+    },
+    {
+      "id": "29c5f1368b81da3ae02d",
+      "text": "ку",
+      "sha256": "0fcdff9d3ee1136667c19eae13a9f04eb048f2076d20df95592d78d21b395b47"
+    },
+    {
+      "id": "015236c3b04ba2b1fe16",
+      "text": "кы",
+      "sha256": "d4073ee973bc07f53a10384d15ba2551fa983933b3e623b09cb1e5bbcd6a26b7"
+    },
+    {
+      "id": "a10dc3642966f79f0eed",
+      "text": "кэ",
+      "sha256": "d5a12b329aac9f25a14910b1ab16a22cbbbb0287764d07e7123a74be2dc65ef4"
+    },
+    {
+      "id": "37f763bd645ddde7e7fd",
+      "text": "ла",
+      "sha256": "276d813cd2044b05882b43e9ad23d725f43e34ebcdd4a3b6e9debd8313c952de"
+    },
+    {
+      "id": "a23925278eeed9a10d45",
+      "text": "ло",
+      "sha256": "6ecf4ddd2f35897e1f8b316e3d3114d10301d01cf86ee91057c63b67abf9353b"
+    },
+    {
+      "id": "43d116e1ca18e7272733",
+      "text": "лу",
+      "sha256": "a55494edf0e1cad5c9b8567542b5c49b502859df9acbb7235b2bf6555f551b99"
+    },
+    {
+      "id": "345c0aa679b1f6ab49d4",
+      "text": "лы",
+      "sha256": "72307e4a398ebc77f31ce01aee12a73680803ba79f8deda86ddb7f9ac0c3e02b"
+    },
+    {
+      "id": "bc1c4f6f51f5d0117262",
+      "text": "лэ",
+      "sha256": "cf69c7092cdc945159c7dafeca3172d0363a335370f0bb5faf2758ff531c37f0"
+    },
+    {
+      "id": "8cac7e2c2c1c1f5fbbf6",
+      "text": "ма",
+      "sha256": "bd5660c5e59fa878a7b273312daaf8c6c994a79b8ccd9b27e4ce44790e303bca"
+    },
+    {
+      "id": "f7cdceead336aa3bde02",
+      "text": "мо",
+      "sha256": "0c9a26ed01111297a0c1a4c389a5596997d46e3bdaea772a988bf22ed122d25a"
+    },
+    {
+      "id": "141337f57cdc6baf41dc",
+      "text": "му",
+      "sha256": "55424bc2c0db803edc78ff9369520e9596bb4109263d3ac99ac017773a0b1057"
+    },
+    {
+      "id": "a1e36aee76ceb9fd5ab1",
+      "text": "мы",
+      "sha256": "ef3fb269923616ca656412d0bdf713e681c453177dd15a877b924abe061d2956"
+    },
+    {
+      "id": "449fe746ad9e96f185ae",
+      "text": "мэ",
+      "sha256": "db891dc0806885b263fbd1960fe945701ebaf4047cfaa7150ba61cf95484a6fd"
+    },
+    {
+      "id": "98e371338e5cf4793541",
+      "text": "на",
+      "sha256": "ca40987a7c78c3004a9bb2c2b95f75db9351c2fc6177df3b17dc2bbd0e71e626"
+    },
+    {
+      "id": "d9df9e91420c04ddde4b",
+      "text": "но",
+      "sha256": "e4c901ecc5934b1223ba1057bdd13d8f90926c884bb31c5f0897f64b2c716de3"
+    },
+    {
+      "id": "d3807bbc91a0c11cf65f",
+      "text": "ну",
+      "sha256": "52e441a8fa912a0a253407b05444c4b690b37c87bcb126572a1bd9a2b3b254d1"
+    },
+    {
+      "id": "fa80d3799624712c10b0",
+      "text": "ны",
+      "sha256": "bbfefb1d2c158664c90d57d36b31d28db02c41866079022d5322519f0eededa1"
+    },
+    {
+      "id": "78d1d50c7df18b1c57a3",
+      "text": "нэ",
+      "sha256": "755a577239f326faabd46890598d27b17b5c86f57ffb8ddb0852d6ddd819f06b"
+    },
+    {
+      "id": "33cd455c65d288ea835b",
+      "text": "ра",
+      "sha256": "27502d73c304673390d28dcae0529521bf197e60a5382fb7f9ab41f1c8845770"
+    },
+    {
+      "id": "c7ef835c9b8aabb7c37a",
+      "text": "ро",
+      "sha256": "1b7f8c6d7c4e2e43ef15b042a1e5799cc16e9732ad217c4141b6773bc49bc858"
+    },
+    {
+      "id": "3edea870daf25e8d42ab",
+      "text": "ру",
+      "sha256": "08e6e9302dc305ad65c92b14a79c447050289bab0668e61cb33b61430804ce5a"
+    },
+    {
+      "id": "3285c5144a93fee1bc2a",
+      "text": "ры",
+      "sha256": "464d6801c7645b56bcaa055bee5f25cd0e9c6c77aa3f8cb1944bec390cc2967b"
+    },
+    {
+      "id": "510d45de5ffbdcb77d3e",
+      "text": "рэ",
+      "sha256": "dae369e049f8066d31282b57677fba5e8da427c5b16e290893cdfe5be145dac8"
+    },
+    {
+      "id": "2ce832d5042f98dac1c3",
+      "text": "са",
+      "sha256": "46233f5736bf4fe81c04866ec256949d49446eb3ef5b0e420679b4bc934dea8b"
+    },
+    {
+      "id": "4592e4da5e3d791430ed",
+      "text": "со",
+      "sha256": "46233f5736bf4fe81c04866ec256949d49446eb3ef5b0e420679b4bc934dea8b"
+    },
+    {
+      "id": "a28f9af3cd22b14dfc9a",
+      "text": "су",
+      "sha256": "e5cd7add9d66c49dbb129f8be5c52f2a32dff6726938ac451823f0366b557eb9"
+    },
+    {
+      "id": "e7678aed48e2c4a4ebbb",
+      "text": "сы",
+      "sha256": "6eb9781fe24db1d8e46f2d9bb36ba7a3eeeb704bb82f9d49ab094b8040febaca"
+    },
+    {
+      "id": "7dd8a63ab4525f525b10",
+      "text": "сэ",
+      "sha256": "62ebb0c66d362c5a21bdce26dc6997924b1ad63c92b564daf9035e5afb9f2d69"
+    },
+    {
+      "id": "da56fe712c784fc10541",
+      "text": "та",
+      "sha256": "9f3826b00855603d1bf8c67e9b56f59ca388be8cde22f7742679ec4059bb85fd"
+    },
+    {
+      "id": "d7101aa84432d6973ddc",
+      "text": "то",
+      "sha256": "2c10265ed9afc63cea6715a9fb1f9fb056a812c473b72733b0a6674993e6138a"
+    },
+    {
+      "id": "3f3040a0497343e04e0e",
+      "text": "ту",
+      "sha256": "0314962dcb01783c227e00df101fb1106b56ebf10f32d6f05ca9b1adf0d91788"
+    },
+    {
+      "id": "03e173501dead85b8173",
+      "text": "ты",
+      "sha256": "45943f015d3e64d2ea008e05c82f4ba7137be56848778faf8bc4ccb83acd1ad2"
+    },
+    {
+      "id": "e632396b470d321434d9",
+      "text": "Мама",
+      "sha256": "7bdc6b2d53a974922136521117d66165a3aaea5962dd82450d43c5fccd58fc71"
+    },
+    {
+      "id": "41fe8a985da892ba91c6",
+      "text": "Папа",
+      "sha256": "e75be314db003246b0157d317a71eb61119e4ed725999c43a5351d8e9ed88ecd"
+    },
+    {
+      "id": "d0d5b166e6b480e95a21",
+      "text": "па",
+      "sha256": "28dfb43540e69ee568b1ab289b2979fb80c09886602e3b25ff87ed8bf49952cc"
+    },
+    {
+      "id": "39df981b701c038bb2dc",
+      "text": "Баба",
+      "sha256": "a4691025930920e3e506f04e6380b011d51a9236e32aec00fd2de8f87f3984d1"
+    },
+    {
+      "id": "a64f325bce6b8db5615c",
+      "text": "Луна",
+      "sha256": "cb95b0a95323814aa979e1c14c7229ec808aaa37d73536c691d8c4136ef2c9d8"
+    },
+    {
+      "id": "c655b51b205366feff6d",
+      "text": "Каша",
+      "sha256": "b4f88a74bf2f2437b81458434bdc4da8f3036bdcceb969fce7aae9d1f8b60414"
+    },
+    {
+      "id": "fdd6575b14d1a6f25e11",
+      "text": "Рука",
+      "sha256": "d0aa7be93a83627b53461bf43806a580990aece3cf10d31041e247318e3151c4"
+    },
+    {
+      "id": "b3b5fd8756ecb599c96f",
+      "text": "Нога",
+      "sha256": "b8178bec14190264cbb13f0e7d7a0c07d4eca35255c69651e2b0577f280f63e3"
+    },
+    {
+      "id": "54d093049d3e5615c8a9",
+      "text": "Лиса",
+      "sha256": "a33a0cdfe0fe05503abcc06007445ee1b9f60603ce083646d0d9d2b2f79ea068"
+    },
+    {
+      "id": "6ed297efd48763bdefe6",
+      "text": "ли",
+      "sha256": "cc6312df305a8c52637c608d45c49e2db2f2242246d5b62aaf4603ab30aae5e2"
+    },
+    {
+      "id": "cf85b8bb16fe37fa1a7f",
+      "text": "Коза",
+      "sha256": "c21eb31e1ac81d5c72a1352515ca3b1bd2ca2b2dc8d6b14e83fbd476b328e8ef"
+    },
+    {
+      "id": "23227eb8350946c8f49e",
+      "text": "Сова",
+      "sha256": "9940f2747d1a7fd99f26499395937b6285c7671174a36000fbc6178a8881b3c4"
+    },
+    {
+      "id": "6ccd4711981575f6b5a6",
+      "text": "Роза",
+      "sha256": "be13084389cbfa65ebf12820ebe7296c423c4c0fd1419e5ece3fa9f5f5c8121e"
+    },
+    {
+      "id": "6ed51da076ee6b372bd1",
+      "text": "Ваза",
+      "sha256": "4360242fd8e5cf6a5df0c3b5cdc58578f1d6732a0811df99f30336153c84926a"
+    },
+    {
+      "id": "06d827c05350e2382bbe",
+      "text": "Бусы",
+      "sha256": "2c6b3464c72fb82cdb638a57b836c696353fe5a256ea4dc47ea97253fd62b818"
+    },
+    {
+      "id": "aedd8c7606e45cf9b8ef",
+      "text": "Сани",
+      "sha256": "ed233a6320bac51fd6d1e5e4a2b17f080b200406c475fdcab149ce674fe27d26"
+    },
+    {
+      "id": "33e6a8be8ae6bdebd182",
+      "text": "ни",
+      "sha256": "fc36db68c8eed313b7d4c65de4690251131e104b07d9209ca92aa9cba7b89fd8"
+    },
+    {
+      "id": "d53c47584de2d803c634",
+      "text": "Гуси",
+      "sha256": "68f4f1ecbe4349716f908b43554f58aecac1a4deeeba1b83d55057f7e981b08c"
+    },
+    {
+      "id": "197013844b015d73597a",
+      "text": "си",
+      "sha256": "435e963f47550d1b841335cc7ba7a972ccf5fccf20427dda7891394f68648873"
+    },
+    {
+      "id": "08979892fdccb24c8acc",
+      "text": "Дерево",
+      "sha256": "570da8bb6d20be20786e9de132a0fe22836d446ed323e72d5a4ce6f5d89e2a89"
+    },
+    {
+      "id": "3770241da3de77c0061f",
+      "text": "де",
+      "sha256": "3883297841b087080eae5036157b47bf327af163f73c24769e34bb85fd8aa805"
+    },
+    {
+      "id": "6d25c202ebb9d4fd09b2",
+      "text": "ре",
+      "sha256": "dae369e049f8066d31282b57677fba5e8da427c5b16e290893cdfe5be145dac8"
+    },
+    {
+      "id": "ab565e67b25745c9f9ea",
+      "text": "Машина",
+      "sha256": "3e719200416256ddfb64376cec33c6889fd5d77a8118bf23246329a45edfa073"
+    },
+    {
+      "id": "6edda4bdcb02648de925",
+      "text": "ши",
+      "sha256": "dcc5c29af55ae615ca94cff8e1ca5f2a7bc2313a95bfee55c11b2a52c2ab3849"
+    },
+    {
+      "id": "239b779ade2ab7ef96db",
+      "text": "Молоко",
+      "sha256": "460de027d069fc7eeb702e5e1c00c4a92d9132989b6f67df43b5f32ff60bc0b1"
+    }
+  ]
+}

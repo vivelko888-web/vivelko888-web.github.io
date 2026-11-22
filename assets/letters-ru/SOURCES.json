@@ -1,0 +1,356 @@
+{
+  "Kalaider25": {
+    "А": {
+      "url": "/assets/letters-ru/Kalaider25-01.wav",
+      "title": "File:Буква А.wav",
+      "source": "https://commons.wikimedia.org/wiki/File:%D0%91%D1%83%D0%BA%D0%B2%D0%B0_%D0%90.wav",
+      "author": "Kalaider25",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sha256": "25b5e4d753cfea5b4d17d92a28f04ade286947841ecc5010ef76034cdd12d848",
+      "changes": "None; original audio bytes."
+    },
+    "Б": {
+      "url": "/assets/letters-ru/Kalaider25-02.wav",
+      "title": "File:Буква Б.wav",
+      "source": "https://commons.wikimedia.org/wiki/File:%D0%91%D1%83%D0%BA%D0%B2%D0%B0_%D0%91.wav",
+      "author": "Kalaider25",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sha256": "c33f655ce9cab65f476a1d146740f979de58f0c1ff49bb7104abc23a2aa4ff69",
+      "changes": "None; original audio bytes."
+    },
+    "В": {
+      "url": "/assets/letters-ru/Kalaider25-03.wav",
+      "title": "File:Буква В.wav",
+      "source": "https://commons.wikimedia.org/wiki/File:%D0%91%D1%83%D0%BA%D0%B2%D0%B0_%D0%92.wav",
+      "author": "Kalaider25",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sha256": "db56561032a0ef227b3afc9313d182a5358a2425a21b93912b0d5f5eaac6594e",
+      "changes": "None; original audio bytes."
+    },
+    "Г": {
+      "url": "/assets/letters-ru/Kalaider25-04.wav",
+      "title": "File:Буква Г.wav",
+      "source": "https://commons.wikimedia.org/wiki/File:%D0%91%D1%83%D0%BA%D0%B2%D0%B0_%D0%93.wav",
+      "author": "Kalaider25",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sha256": "bca5e4f34cec544b37ca31a8af9dbb39340058d1e61307102dac62f4cfe72e38",
+      "changes": "None; original audio bytes."
+    },
+    "Д": {
+      "url": "/assets/letters-ru/Kalaider25-05.wav",
+      "title": "File:Буква Д.wav",
+      "source": "https://commons.wikimedia.org/wiki/File:%D0%91%D1%83%D0%BA%D0%B2%D0%B0_%D0%94.wav",
+      "author": "Kalaider25",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sha256": "b81e8963156ea7d2f75f9854d7d110e4465d61aeeb4385870d49274a370224ce",
+      "changes": "None; original audio bytes."
+    },
+    "Е": {
+      "url": "/assets/letters-ru/Kalaider25-06.wav",
+      "title": "File:Буква Е.wav",
+      "source": "https://commons.wikimedia.org/wiki/File:%D0%91%D1%83%D0%BA%D0%B2%D0%B0_%D0%95.wav",
+      "author": "Kalaider25",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sha256": "066a73419a1b20f7dc545ce8bc69288594ed185d67431fc0579b67de5f9a5da1",
+      "changes": "None; original audio bytes."
+    },
+    "Ё": {
+      "url": "/assets/letters-ru/Kalaider25-07.wav",
+      "title": "File:Буква Ё.wav",
+      "source": "https://commons.wikimedia.org/wiki/File:%D0%91%D1%83%D0%BA%D0%B2%D0%B0_%D0%81.wav",
+      "author": "Kalaider25",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sha256": "643c5f698101ca300d8a33b001af58238915ef1e00a8eb2824d88a34d077b4aa",
+      "changes": "None; original audio bytes."
+    },
+    "Ж": {
+      "url": "/assets/letters-ru/Kalaider25-08.wav",
+      "title": "File:Буква Ж.wav",
+      "source": "https://commons.wikimedia.org/wiki/File:%D0%91%D1%83%D0%BA%D0%B2%D0%B0_%D0%96.wav",
+      "author": "Kalaider25",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sha256": "fc897e9f3ad29188eba4666b63286b50aa031cbfbfed94d295db8417f95585ca",
+      "changes": "None; original audio bytes."
+    },
+    "З": {
+      "url": "/assets/letters-ru/Kalaider25-09.wav",
+      "title": "File:Буква З.wav",
+      "source": "https://commons.wikimedia.org/wiki/File:%D0%91%D1%83%D0%BA%D0%B2%D0%B0_%D0%97.wav",
+      "author": "Kalaider25",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sha256": "f337f134d8f98470197a2cc11c8a7baa608f3f8ff3411e15418b72ce6b52d1d9",
+      "changes": "None; original audio bytes."
+    },
+    "И": {
+      "url": "/assets/letters-ru/Kalaider25-10.wav",
+      "title": "File:Буква И.wav",
+      "source": "https://commons.wikimedia.org/wiki/File:%D0%91%D1%83%D0%BA%D0%B2%D0%B0_%D0%98.wav",
+      "author": "Kalaider25",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sha256": "86ad72d7c7a1279c9d5fd751200e63239155b7114eaa664bdc652d57070ace6a",
+      "changes": "None; original audio bytes."
+    },
+    "Й": {
+      "url": "/assets/letters-ru/Kalaider25-11.wav",
+      "title": "File:Буква Й.wav",
+      "source": "https://commons.wikimedia.org/wiki/File:%D0%91%D1%83%D0%BA%D0%B2%D0%B0_%D0%99.wav",
+      "author": "Kalaider25",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sha256": "991992c9a292b21737f4f6eed03ee64568392e575a429be488ba3c842662f425",
+      "changes": "None; original audio bytes."
+    },
+    "К": {
+      "url": "/assets/letters-ru/Kalaider25-12.wav",
+      "title": "File:Буква К.wav",
+      "source": "https://commons.wikimedia.org/wiki/File:%D0%91%D1%83%D0%BA%D0%B2%D0%B0_%D0%9A.wav",
+      "author": "Kalaider25",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sha256": "169354c8519868b7075837b3a79f979e8f9114efbc7aa17543e8b8576929b3bd",
+      "changes": "None; original audio bytes."
+    },
+    "Л": {
+      "url": "/assets/letters-ru/Kalaider25-13.wav",
+      "title": "File:Буква Л.wav",
+      "source": "https://commons.wikimedia.org/wiki/File:%D0%91%D1%83%D0%BA%D0%B2%D0%B0_%D0%9B.wav",
+      "author": "Kalaider25",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sha256": "405975172c02895aba3d55c2db9d5853d905d5664dbf5f37f9ec5b60c858e01c",
+      "changes": "None; original audio bytes."
+    },
+    "М": {
+      "url": "/assets/letters-ru/Kalaider25-14.wav",
+      "title": "File:Буква М.wav",
+      "source": "https://commons.wikimedia.org/wiki/File:%D0%91%D1%83%D0%BA%D0%B2%D0%B0_%D0%9C.wav",
+      "author": "Kalaider25",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sha256": "35e5e63a1d84fb05b27927fe1f6140d190c9558c7ee3473e4b6af6c713c04f47",
+      "changes": "None; original audio bytes."
+    },
+    "Н": {
+      "url": "/assets/letters-ru/Kalaider25-15.wav",
+      "title": "File:Буква Н.wav",
+      "source": "https://commons.wikimedia.org/wiki/File:%D0%91%D1%83%D0%BA%D0%B2%D0%B0_%D0%9D.wav",
+      "author": "Kalaider25",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sha256": "420c2fec28c21749bdae37a584fb339054bc300b183503b812bccbc0b3bb85a2",
+      "changes": "None; original audio bytes."
+    },
+    "О": {
+      "url": "/assets/letters-ru/Kalaider25-16.wav",
+      "title": "File:Буква О.wav",
+      "source": "https://commons.wikimedia.org/wiki/File:%D0%91%D1%83%D0%BA%D0%B2%D0%B0_%D0%9E.wav",
+      "author": "Kalaider25",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sha256": "12f3f91000af5e07b204b1f63d7493ea4090a1ba1208c5581e3de2f99f2eda03",
+      "changes": "None; original audio bytes."
+    },
+    "П": {
+      "url": "/assets/letters-ru/Kalaider25-17.wav",
+      "title": "File:Буква П.wav",
+      "source": "https://commons.wikimedia.org/wiki/File:%D0%91%D1%83%D0%BA%D0%B2%D0%B0_%D0%9F.wav",
+      "author": "Kalaider25",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sha256": "41667a3f9aeb1ac14d1d3c974a0cf480d1050d147b81812b051fb04c3d51ea37",
+      "changes": "None; original audio bytes."
+    },
+    "Р": {
+      "url": "/assets/letters-ru/Kalaider25-18.wav",
+      "title": "File:Буква Р.wav",
+      "source": "https://commons.wikimedia.org/wiki/File:%D0%91%D1%83%D0%BA%D0%B2%D0%B0_%D0%A0.wav",
+      "author": "Kalaider25",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sha256": "952ab3a3bdd26605a3d602834926eab4b97d1ed3b733171f58494f35ad6a1b1f",
+      "changes": "None; original audio bytes."
+    },
+    "С": {
+      "url": "/assets/letters-ru/Kalaider25-19.wav",
+      "title": "File:Буква С.wav",
+      "source": "https://commons.wikimedia.org/wiki/File:%D0%91%D1%83%D0%BA%D0%B2%D0%B0_%D0%A1.wav",
+      "author": "Kalaider25",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sha256": "684da698e9e31cd40e51aadf663b97ff631571bbc2cce86626b097db0ced9271",
+      "changes": "None; original audio bytes."
+    },
+    "Т": {
+      "url": "/assets/letters-ru/Kalaider25-20.wav",
+      "title": "File:Буква Т.wav",
+      "source": "https://commons.wikimedia.org/wiki/File:%D0%91%D1%83%D0%BA%D0%B2%D0%B0_%D0%A2.wav",
+      "author": "Kalaider25",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sha256": "1138dbbbd9ba0c074446b21b2ba0b3cd064e5611435b8d9b05bf18b41bbffd33",
+      "changes": "None; original audio bytes."
+    },
+    "У": {
+      "url": "/assets/letters-ru/Kalaider25-21.wav",
+      "title": "File:Буква У.wav",
+      "source": "https://commons.wikimedia.org/wiki/File:%D0%91%D1%83%D0%BA%D0%B2%D0%B0_%D0%A3.wav",
+      "author": "Kalaider25",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sha256": "381170df4a2e0f22a3311382af6a8cd19871900deb2ffbcadc1326c1b6e08cb3",
+      "changes": "None; original audio bytes."
+    },
+    "Ф": {
+      "url": "/assets/letters-ru/Kalaider25-22.wav",
+      "title": "File:Буква Ф.wav",
+      "source": "https://commons.wikimedia.org/wiki/File:%D0%91%D1%83%D0%BA%D0%B2%D0%B0_%D0%A4.wav",
+      "author": "Kalaider25",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sha256": "d2303677974b586a1407aab254973ede9c433720f03039a44c6ab70555bc9304",
+      "changes": "None; original audio bytes."
+    },
+    "Х": {
+      "url": "/assets/letters-ru/Kalaider25-23.wav",
+      "title": "File:Буква Х.wav",
+      "source": "https://commons.wikimedia.org/wiki/File:%D0%91%D1%83%D0%BA%D0%B2%D0%B0_%D0%A5.wav",
+      "author": "Kalaider25",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sha256": "7dd34cd493171fdb077451f6cebb8f9ef2c27abc7c797393bbdf06e190e3da89",
+      "changes": "None; original audio bytes."
+    },
+    "Ц": {
+      "url": "/assets/letters-ru/Kalaider25-24.wav",
+      "title": "File:Буква Ц.wav",
+      "source": "https://commons.wikimedia.org/wiki/File:%D0%91%D1%83%D0%BA%D0%B2%D0%B0_%D0%A6.wav",
+      "author": "Kalaider25",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sha256": "6b62c35acdcc9d0d1d1efe02ef5361c60c20142f0daaed1d9640041aa34d12da",
+      "changes": "None; original audio bytes."
+    },
+    "Ч": {
+      "url": "/assets/letters-ru/Kalaider25-25.wav",
+      "title": "File:Буква Ч.wav",
+      "source": "https://commons.wikimedia.org/wiki/File:%D0%91%D1%83%D0%BA%D0%B2%D0%B0_%D0%A7.wav",
+      "author": "Kalaider25",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sha256": "f860be0befdc6b0075625af94338a8ba12995d085b7dd4b9d20dd8dedc6ffa4f",
+      "changes": "None; original audio bytes."
+    },
+    "Ш": {
+      "url": "/assets/letters-ru/Kalaider25-26.wav",
+      "title": "File:Буква Ш.wav",
+      "source": "https://commons.wikimedia.org/wiki/File:%D0%91%D1%83%D0%BA%D0%B2%D0%B0_%D0%A8.wav",
+      "author": "Kalaider25",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sha256": "662ecc00e1e495de77e4481048406bea80ff46fe48dc9536e8949b7ddc8297ff",
+      "changes": "None; original audio bytes."
+    },
+    "Щ": {
+      "url": "/assets/letters-ru/Kalaider25-27.wav",
+      "title": "File:Буква Щ.wav",
+      "source": "https://commons.wikimedia.org/wiki/File:%D0%91%D1%83%D0%BA%D0%B2%D0%B0_%D0%A9.wav",
+      "author": "Kalaider25",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sha256": "5f8e8c61d0267027db31d3cbfd2c4c2075b911a75ea9c733fe09b0023803bdf2",
+      "changes": "None; original audio bytes."
+    },
+    "Ъ": {
+      "url": "/assets/letters-ru/Kalaider25-28.wav",
+      "title": "File:Буква Ъ.wav",
+      "source": "https://commons.wikimedia.org/wiki/File:%D0%91%D1%83%D0%BA%D0%B2%D0%B0_%D0%AA.wav",
+      "author": "Kalaider25",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sha256": "8f9f9e467486073246708827512c29c18a4b120e24d971cbda6db27024a9c6a5",
+      "changes": "None; original audio bytes."
+    },
+    "Ы": {
+      "url": "/assets/letters-ru/Kalaider25-29.wav",
+      "title": "File:Буква Ы.wav",
+      "source": "https://commons.wikimedia.org/wiki/File:%D0%91%D1%83%D0%BA%D0%B2%D0%B0_%D0%AB.wav",
+      "author": "Kalaider25",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sha256": "e968654dd61c7c648e3a71dc157589299fa55629f4dd5294283a51eda49054be",
+      "changes": "None; original audio bytes."
+    },
+    "Ь": {
+      "url": "/assets/letters-ru/Kalaider25-30.wav",
+      "title": "File:Буква Ь.wav",
+      "source": "https://commons.wikimedia.org/wiki/File:%D0%91%D1%83%D0%BA%D0%B2%D0%B0_%D0%AC.wav",
+      "author": "Kalaider25",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sha256": "09b9b638d38d6f7441152157e57fb4ec39b0bd8fc907cb9a890ecdc25683f6e3",
+      "changes": "None; original audio bytes."
+    },
+    "Э": {
+      "url": "/assets/letters-ru/Kalaider25-31.wav",
+      "title": "File:Буква Э.wav",
+      "source": "https://commons.wikimedia.org/wiki/File:%D0%91%D1%83%D0%BA%D0%B2%D0%B0_%D0%AD.wav",
+      "author": "Kalaider25",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sha256": "424f388bd9019816e7df0e8498fd46ee5d4c0f2b6fb7819fb7ad765044fce39d",
+      "changes": "None; original audio bytes."
+    },
+    "Ю": {
+      "url": "/assets/letters-ru/Kalaider25-32.wav",
+      "title": "File:Буква Ю.wav",
+      "source": "https://commons.wikimedia.org/wiki/File:%D0%91%D1%83%D0%BA%D0%B2%D0%B0_%D0%AE.wav",
+      "author": "Kalaider25",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sha256": "6199ae265436df5f79169331a05d722285421e054487cfb0e0b0c822c91684ca",
+      "changes": "None; original audio bytes."
+    },
+    "Я": {
+      "url": "/assets/letters-ru/Kalaider25-33.wav",
+      "title": "File:Буква Я.wav",
+      "source": "https://commons.wikimedia.org/wiki/File:%D0%91%D1%83%D0%BA%D0%B2%D0%B0_%D0%AF.wav",
+      "author": "Kalaider25",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sha256": "4e0a1954a62529f2c943d8e2576e839eb037654dffdb07cad28efc8cf58bc842",
+      "changes": "None; original audio bytes."
+    }
+  },
+  "Cherus": {
+    "А": {
+      "url": "/assets/letters-ru/Cherus-01.ogg",
+      "title": "File:Ru-01-буква-А.ogg",
+      "source": "https://commons.wikimedia.org/wiki/File:Ru-01-%D0%B1%D1%83%D0%BA%D0%B2%D0%B0-%D0%90.ogg",
+      "author": "Cherus",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sha256": "c7900300acb35c8fb4a8308f2d0d843447958501116dea8545332e9985f280d0",
+      "changes": "None; original audio bytes."
+    },
+    "Б": {
+      "url": "/assets/letters-ru/Cherus-02.ogg",
+      "title": "File:Ru-02-буква-Б.ogg",
+      "source": "https://commons.wikimedia.org/wiki/File:Ru-02-%D0%B1%D1%83%D0%BA%D0%B2%D0%B0-%D0%91.ogg",
+      "author": "Cherus",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sha256": "ce119216eb43ecdde95d50fe6ad22c2ee1115c61aac3671a7eebdf7c6507b113",
+      "changes": "None; original audio bytes."
+    }
+  }
+}

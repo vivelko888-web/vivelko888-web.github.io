@@ -1,0 +1,4 @@
+Emoji illustrations: Twemoji v16.0.1, Twitter and contributors / jdecked.
+https://github.com/jdecked/twemoji/tree/v16.0.1
+Licensed under Creative Commons Attribution 4.0: https://creativecommons.org/licenses/by/4.0/
+Custom named diagrams: created for Moy Mir (needle, xylophone, igloo, table, yoyo, top, quilt, oil, yogurt, moth, cotton, domino, spring).

@@ -1,0 +1,17 @@
+{
+  "baseUniqueTexts": 331,
+  "baseCoverage": "331/331",
+  "totalWavs": 365,
+  "technicalPassed": 365,
+  "letterNameReferences": 33,
+  "phonemeCandidates": 31,
+  "signExplanations": 2,
+  "extraSyllables": [
+    "по"
+  ],
+  "spokenInterfacePhrases": 0,
+  "totalSeconds": 270.64,
+  "websiteFilesUnchanged": 832,
+  "phoneticReview": "not completed: candidates must be listened to; technical coverage is not phonetic validation",
+  "textCorrespondence": "every base text mapped to an exact ID and synthesis string; stress dictionary and standalone Ё pronunciation alias logged; audible content has not been independently transcribed"
+}
